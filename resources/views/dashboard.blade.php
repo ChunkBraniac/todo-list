@@ -12,6 +12,8 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
+
+            <a href="task" style="color: white;">Add Task</a>
         </div>
     </div>
 </x-app-layout>
